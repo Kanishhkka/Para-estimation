@@ -20,7 +20,5 @@ from B(m, θ) distribution, where θ ∈Θ =(0, 1) is unknown and ‘m’ is a k
 M.L.E.
 
 
-## Submitted by:
 
-- Akshita Gupta (102103741) 
 
